@@ -6,7 +6,6 @@ This repository contains the core components of the project focused on predictin
 
 - `Notebook/` — Main analysis and modeling workflow
 - `docs/` — Project documentation outlining methodology, assumptions, and decisions
-- `slides/` — Presentation materials summarizing key findings
 - `App/` — Contains the training data and model specifications.
 
 ##  Technologies Used
@@ -24,13 +23,14 @@ This repository contains the core components of the project focused on predictin
 
 ##  Deployment
 
-A live version of the project is available [here](/). 
+A live version of the project is available [here](https://exportscalc.streamlit.app/). 
 
 ##  Additional Notes
 
 This repository is intended to showcase structure, methodology, and deployment practices. For full details, refer to the documentation and notebook.
 
 ---
+
 
 
 
