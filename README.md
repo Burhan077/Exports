@@ -1,6 +1,6 @@
-#  Capstone Project: LendingClub Loan Defaulters Prediction
+#  Customs Price Prediction
 
-This repository contains the core components of the project focused on predicting loan defaulters using historical lending data.
+This repository contains the core components of the project focused on predicting customs values using historical customs data.
 
 ##  Repository Contents
 
@@ -24,12 +24,13 @@ This repository contains the core components of the project focused on predictin
 
 ##  Deployment
 
-A live version of the project is available [here](https://loandefaulting.streamlit.app/). 
+A live version of the project is available [here](/). 
 
 ##  Additional Notes
 
 This repository is intended to showcase structure, methodology, and deployment practices. For full details, refer to the documentation and notebook.
 
 ---
+
 
 
